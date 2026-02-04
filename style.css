@@ -54,3 +54,12 @@ body {
   font-size: 14px;
   color: #777;
 }
+
+/* Hide SEO text but keep it valid for search engines */
+.visually-hidden,
+.seo-content {
+  position: absolute;
+  left: -9999px;
+  height: 1px;
+  overflow: hidden;
+}
