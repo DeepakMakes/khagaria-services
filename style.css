@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f5f5;
+  color: #333;
+  text-align: center;
+}
+
+.header {
+  background: #0a58ca;
+  color: white;
+  padding: 20px;
+}
+
+.services {
+  padding: 20px;
+}
+
+.service-card {
+  background: white;
+  margin: 15px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.btn {
+  display: block;
+  margin: 10px 0;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+.call {
+  background: #198754;
+  color: white;
+}
+
+.whatsapp {
+  background: #25d366;
+  color: white;
+}
+
+.areas {
+  padding: 15px;
+  background: #fff;
+}
+
+.footer {
+  padding: 10px;
+  font-size: 14px;
+  color: #777;
+}
